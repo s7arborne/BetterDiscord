@@ -1,0 +1,164 @@
+{
+	"amounts": {
+		"toastTime": 5,
+		"checkInterval": 10
+	},
+	"dates": {
+		"logDate": {}
+	},
+	"general": {
+		"addOnlineCount": true,
+		"showDiscriminator": false,
+		"muteOnDND": false,
+		"openOnClick": false
+	},
+	"notificationSounds": {
+		"toastonline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoponline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastlistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoplistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toaststreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopstreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		}
+	},
+	"notificationStrings": {
+		"online": "$user changed status to '$status'",
+		"idle": "$user changed status to '$status'",
+		"dnd": "$user changed status to '$status'",
+		"playing": "$user started playing '$game'",
+		"listening": "$user started listening to '$song'",
+		"streaming": "$user started streaming '$game'",
+		"offline": "$user changed status to '$status'",
+		"login": "$user just logged in '$status'",
+		"custom": "$user changed status to '$custom'"
+	},
+	"observed": {
+		"318429755479293952": {
+			"friends": {
+				"165025116751790080": {},
+				"232872622436646922": {},
+				"235384263854260235": {},
+				"250962333591928833": {},
+				"254324351296339968": {},
+				"284199440820994048": {},
+				"301240151693197322": {},
+				"303604528823926794": {},
+				"303785783934844928": {},
+				"304592479875891221": {},
+				"353495778301575171": {},
+				"388067854265614337": {},
+				"397246936706449409": {},
+				"404298297847840768": {},
+				"408878827096244234": {},
+				"417995747045408788": {},
+				"428827275618811904": {},
+				"429999141574148106": {},
+				"431432427773100052": {},
+				"432940081695948850": {},
+				"439767751616233472": {},
+				"441979335256047626": {},
+				"444111732496138260": {},
+				"445116601684197383": {},
+				"454940287635161098": {},
+				"464816218713489421": {},
+				"465429434728710146": {},
+				"467550948659822592": {},
+				"489873398688645150": {},
+				"507897561680445444": {},
+				"509407737139167259": {},
+				"510142227922812941": {},
+				"510151370721067008": {},
+				"510848218922221583": {},
+				"514813025102856192": {},
+				"514815365583208466": {},
+				"518243237572378634": {},
+				"524119929696419841": {},
+				"530098210597896214": {},
+				"530874607784165377": {},
+				"534432677986828300": {},
+				"534614660624941065": {},
+				"551514234253475854": {},
+				"553114735332294667": {},
+				"554637482910679040": {},
+				"556168040249688085": {},
+				"561601793239416842": {},
+				"565785761727774721": {},
+				"567259665189175297": {},
+				"643696322108456960": {},
+				"647550554863566853": {},
+				"655774507000135700": {},
+				"659753029767135251": {},
+				"687293147700789257": {},
+				"688656073196175361": {},
+				"696059720523579453": {},
+				"697145408648118272": {},
+				"832172019378028575": {},
+				"852831274490003477": {}
+			},
+			"strangers": {}
+		}
+	}
+}
