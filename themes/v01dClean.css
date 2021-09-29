@@ -38,7 +38,7 @@
 
 
     /* Background image variables */
-    --background-image: url('https://images.alphacoders.com/914/914670.jpg');
+    --background-image: url('https://raw.githubusercontent.com/jagreetdg/betterdiscord/master/themes/saber_alter.png');
     /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
     --background-image-blur: 3px;
     /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
