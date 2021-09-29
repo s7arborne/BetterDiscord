@@ -35,7 +35,7 @@
 
 
     /* Background image variables */
-    --background-image: url('https://images.hdqwalls.com/wallpapers/neon-light-hero-4k-os.jpg');
+    --background-image: url('https://raw.githubusercontent.com/jagreetdg/betterdiscord/master/themes/neon-light.jpg');
     --background-overlay: rgba(0, 0, 0, 0.5);
     /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
     --background-image-blur: 0px;
