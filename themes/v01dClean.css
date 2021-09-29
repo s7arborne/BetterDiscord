@@ -58,7 +58,7 @@
     /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
     /* Home image variables */
-    --home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+    --home-button-image: url('https://raw.githubusercontent.com/jagreetdg/betterdiscord/master/themes/amogus_discord.gif');
     /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
     --home-button-size: cover;
     /* Size of the home button image | DEFAUT: cover */
