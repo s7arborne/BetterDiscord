@@ -11,7 +11,7 @@
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+/*@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css")*/
 
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
 
@@ -20,6 +20,18 @@
     right: 50%;
     text-align: right;
     transform: translateX(50%);
+}
+.typeWindows-1za-n7 > .wordmark-2iDDfm:before {
+  content: "Wildfire";
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  text-shadow: 0 0 3px #000;
+}
+.typeWindows-1za-n7 > .wordmark-2iDDfm:after {
+  content: "v1.xd";
+  color: rgba(255, 255, 255, 0.3);
+  font-family: var(--code-font);
+  font-size: 10px;
 }
 
 :root {
